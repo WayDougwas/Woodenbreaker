@@ -19,8 +19,8 @@ namespace Woodenbreaker.Content.Items.Weapons
         public override void SetDefaults()
         {
             //Scale
-            Item.width = 48;
-            Item.height = 56;
+            Item.width = 64;
+            Item.height = 64;
 
             //Animation
             Item.useStyle = ItemUseStyleID.Swing;
