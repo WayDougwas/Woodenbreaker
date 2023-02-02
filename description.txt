@@ -1,0 +1,13 @@
+Hello fellas, this is my first mod, made for a friend.
+the mode content is just a sword for hardmode.
+
+Stats:
+Base damage: 121
+Base Knockback: 5
+Base Critical chance: 20%
+
+Recipe:
+25x Chlorophyte's.
+1x Broken hero Sword.
+300x Woods.
+in a Mythril or Orichalcum anvil.
