@@ -1,3 +1,5 @@
 displayName = Wooden Breaker
 author = Way
 version = 0.2
+homepage = https://github.com/WayDougwas/Woodenbreaker
+includeSource = true
